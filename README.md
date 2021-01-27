@@ -7,6 +7,12 @@
 #### `docker create <image-name>`
 #### `docker start -a <container-id>`
 #### `docker system prune`
+#### `docker logs <container-id>`
+#### `docker stop <container-id>`
+#### `docker kill <container-id>`
+#### `docker exec -it <container-id> <command>`
+#### `docker exec -it <container-id> sh`
+#### `docker run -it <image-name> sh`
 
 
 
