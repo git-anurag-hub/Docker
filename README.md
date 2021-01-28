@@ -13,6 +13,8 @@
 #### `docker exec -it <container-id> <command>`
 #### `docker exec -it <container-id> sh`
 #### `docker run -it <image-name> sh`
+#### `docker build .`
+#### `docker build -t <username>/<project-name>:<version> .` 
 
 
 
