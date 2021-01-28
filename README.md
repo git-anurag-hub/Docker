@@ -15,6 +15,7 @@
 #### `docker run -it <image-name> sh`
 #### `docker build .`
 #### `docker build -t <username>/<project-name>:<version> .` 
+#### `docker run -p <localhost>:<dockerhost> <image-id>`
 
 
 
